@@ -1,1 +1,1 @@
-# CT1 and Ct2
+# CT1 and Miniproject
